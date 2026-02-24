@@ -17,10 +17,10 @@ The project unfolds in several key stages:
 By seamlessly integrating these components, the "Optimising Database Design for Meraki Delivery Company" project equips the company with an enhanced database architecture. This, in turn, empowers Meraki Delivery Company to operate more efficiently, make data-driven decisions, and provide a streamlined and effective delivery service.
 
 ## Notebook Structure: 
-- [**Meraki database requirement**] - Unveiling the background and necessity behind the development of an Entity-Relationship Diagram (EER) and the implementation of Logical Transformation within the Meraki Delivery Company's database architecture. This optimisation will improve operational efficiency and streamline delivery processes.
+- **Meraki database requirement** - Unveiling the background and necessity behind the development of an Entity-Relationship Diagram (EER) and the implementation of Logical Transformation within the Meraki Delivery Company's database architecture. This optimisation will improve operational efficiency and streamline delivery processes.
 
-- [**EER Diagram + Logical Transformation**] - A comprehensive resource that presents the Entity-Relationship Diagram (EER) and demonstrates the application of Logical Transformation. These elements have been tailored to meet the specific requirements for optimising Meraki Delivery Company's database structure.
+- **EER Diagram + Logical Transformation** - A comprehensive resource that presents the Entity-Relationship Diagram (EER) and demonstrates the application of Logical Transformation. These elements have been tailored to meet the specific requirements for optimising Meraki Delivery Company's database structure.
 
-- [**Creating SQL Meraki database**] - Discover the tangible outcome of the EER Diagram and Logical Transformation, resulting in the creation of the Meraki Delivery Company's SQL database, intricately aligned with the established requirements.
+- **Creating SQL Meraki database** - Discover the tangible outcome of the EER Diagram and Logical Transformation, resulting in the creation of the Meraki Delivery Company's SQL database, intricately aligned with the established requirements.
   
-- [**Query to find insights from Meraki database**] - Delve into this section to explore the formulated SQL query aimed at extracting valuable insights from the Meraki Delivery Company's database. 
+- **Query to find insights from Meraki database** - Delve into this section to explore the formulated SQL query aimed at extracting valuable insights from the Meraki Delivery Company's database. 
